@@ -26,7 +26,16 @@
 - https://dl.acm.org/citation.cfm?id=3029840&dl=ACM&coll=DL&CFID=820005745&CFTOKEN=41723512#URLTOKEN#
 - https://dl.acm.org/citation.cfm?id=3022324&dl=ACM&coll=DL&CFID=820005745&CFTOKEN=41723512#URLTOKEN#
 - https://dl.acm.org/citation.cfm?id=2980121&dl=ACM&coll=DL&CFID=820005745&CFTOKEN=41723512#URLTOKEN#
-- 
+
+IEE
+- http://ieeexplore.ieee.org/document/7964929/
+- http://ieeexplore.ieee.org/document/7937584/
+- http://ieeexplore.ieee.org/document/7899533/
+- http://ieeexplore.ieee.org/document/7807214/
+- http://ieeexplore.ieee.org/document/7842275/
+- http://ieeexplore.ieee.org/document/8009763/
+- http://ieeexplore.ieee.org/document/7482037/
+- http://ieeexplore.ieee.org/document/7841310/
 
 
 - http://delivery.acm.org/10.1145/3100000/3097621/p1-Kano.pdf?ip=68.56.110.124&id=3097621&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E675F32C56A4570FC&CFID=820005745&CFTOKEN=41723512&__acm__=1508249721_c3767676cdb2c1ab91cd96180d07d102#URLTOKEN#
